@@ -1,0 +1,1 @@
+ClearCollect(imgcol,CustomVision.DetectImageV2("project-id","Iteration1",Camera1.Photo).predictions)
