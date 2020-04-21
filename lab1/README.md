@@ -58,7 +58,7 @@ ClearCollect(imgcol,CustomVision.DetectImageV2("Your Custom Vision AI project ID
 
 Real example:<BR>
 ```javascript
-ClearCollect(imgcol,CustomVision.DetectImageV2("8c1fa230-043d-42ba-b284-e52653d873ef","Iteration1",Camera1.Photo).predictions)<BR>
+ClearCollect(imgcol,CustomVision.DetectImageV2("8c1fa230-043d-42ba-b284-e52653d873ef","Iteration1",Camera1.Photo).predictions)
 ```
 
 
