@@ -32,6 +32,12 @@ In the picture below we can see they are all following Social Distance guideline
 
 All images were collected using Google and Bing Search. They are all publicly available in the internet. <BR>
 
+### Social Distance funny solutions
+
+![Funny 1](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/data/social-distance-images/funny-images/25877132-8104031-image-a-28_1584009191615.jpg)
+
+![Funny 2](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/data/social-distance-images/funny-images/_1_main_screengrab.jpg)
+
 
 ### References
 
