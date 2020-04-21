@@ -6,6 +6,13 @@ This lab 1 explains how to use Microsoft AI to detect Social Distance using Micr
 
 The goal of the App is to identify Social Distance in an photo/image. <BR>
 This is a binary classification: Yes or No. <BR>
+  
+### Tools
+1. Microsoft PowerApps (https://powerapps.microsoft.com/) <BR>
+2. Microsoft CustomVision.ai (https://www.customvision.ai/) <BR>  
+
+### How to identify in an image Social Distance equals yes? 
+If we have two people together without keeping the social distance guidelines, we classify Social Distance equals NO. <BR>
 
 In the picture below we can see they are all following Social Distance guidelines. <BR>
 
@@ -14,13 +21,6 @@ In the picture below we can see they are all following Social Distance guideline
 ### Keep Social Distance to save lives now
 
 ![Social Distance definition](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/data/social-distance-images/social-distance-definition/social-distancing-620.jpg)
-
-
-
-
-### Tools
-1. Microsoft PowerApps (https://powerapps.microsoft.com/) <BR>
-2. Microsoft CustomVision.ai (https://www.customvision.ai/) <BR>
 
 
 ### Reference
