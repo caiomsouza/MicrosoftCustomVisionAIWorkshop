@@ -67,7 +67,7 @@ https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/tree/master/lab1/s
 <b>Test with a new image</b>
 ![Test](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/quick-test-model.PNG)
 
-<b>Quick test in the Model</b>
+<b>Publish the Model</b>
 ![Quick test in the Model](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/publish-model.PNG)
 
 <b>Use the Prediction API to predict new images</b>
