@@ -2,15 +2,12 @@
 This workshop explains how to use Microsoft Custom Vision AI to detect images. 
 
 ## Use Case 1 - Lab 1 - Social Distance Image Detector
-This lab 1 explains how to use Microsoft AI to detect Social Distance using Microsoft Customvision.ai (AI/ML) and Microsoft PowerApps. This is not production ready. <BR>
+This [Lab 1 ](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/README.md) explains how to use Microsoft AI to detect Social Distance using Microsoft Customvision.ai (AI/ML) and Microsoft PowerApps. This is not production ready. <BR>
 
 The goal of this Demo App is to identify Social Distance in an image. <BR>
 This is a binary classification: Yes or No. <BR>
 
-Click the link below and jump to Lab 1<BR>
-https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/README.md<BR>
-
-
+<b>Click [here](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/README.md) to jump to Lab 1<BR></b>
 
 ### Tools
 1. Microsoft PowerApps (https://powerapps.microsoft.com/) <BR>
