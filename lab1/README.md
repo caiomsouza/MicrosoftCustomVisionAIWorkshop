@@ -53,6 +53,9 @@ https://preview.create.powerapps.com/studio <BR>
 
 2) Build your Custom Vision AI Model
 
+<b>Create a new Custom Vision Project</b>
+![Create a new Custom Vision Project](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/create-custom-vision-project.PNG)
+
 <b>Train Images</b>
 ![Train Images](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/train-images.PNG)
 
