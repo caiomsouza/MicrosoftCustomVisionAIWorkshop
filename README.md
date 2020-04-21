@@ -11,6 +11,11 @@ In the picture below we can see they are all following Social Distance guideline
 
 ![Social Distance](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/data/social-distance-images/funny-images/beatles-abbey-road-social-distancing%20(1).jpg)
 
+### Keep Social Distance to save lives now
+
+![Social Distance definition](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/data/social-distance-images/social-distance-definition/social-distancing-620.jpg)
+
+
 
 
 ### Tools
