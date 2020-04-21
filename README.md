@@ -6,7 +6,12 @@ This lab 1 explains how to use Microsoft AI to detect Social Distance using Micr
 
 The goal of this Demo App is to identify Social Distance in an image. <BR>
 This is a binary classification: Yes or No. <BR>
-  
+
+Click the link below and jump to Lab 1<BR>
+https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/README.md<BR>
+
+
+
 ### Tools
 1. Microsoft PowerApps (https://powerapps.microsoft.com/) <BR>
 2. Microsoft CustomVision.ai (https://www.customvision.ai/) <BR>  
