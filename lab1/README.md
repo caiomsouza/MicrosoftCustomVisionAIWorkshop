@@ -49,8 +49,14 @@ Use this link to build your new Power App: <BR>
 https://preview.create.powerapps.com/studio <BR>
 
 
+
+
 2) Build your Custom Vision AI Model
 
+Train Images
+![Train Images](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/train-images.PNG)
+
+Use the Prediction API to predict new images
 ![Prediction API](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/prediction-api.PNG
 )
 
