@@ -48,7 +48,9 @@ With your PowerApps account login in using the address https://powerapps.microso
 Use this link to build your new Power App: <BR>
 https://preview.create.powerapps.com/studio <BR>
 
-
+<b>Social Distance Detector Demo Power Apps</b>
+If you do not want to build your own Power Apps you can import this Power Apps.<BR>
+https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/tree/master/lab1/src/PowerApp<BR>
 
 
 2) Build your Custom Vision AI Model
