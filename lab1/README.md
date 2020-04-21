@@ -53,10 +53,13 @@ https://preview.create.powerapps.com/studio <BR>
 
 2) Build your Custom Vision AI Model
 
-Train Images
+<b>Train Images</b>
 ![Train Images](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/train-images.PNG)
 
-Use the Prediction API to predict new images
+<b>Quick test in the Model</b>
+![Quick test in the Model](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/publish-model.PNG)
+
+<b>Use the Prediction API to predict new images</b>
 ![Prediction API](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/prediction-api.PNG
 )
 
