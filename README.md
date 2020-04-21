@@ -1,5 +1,14 @@
-# microsoft-image-detection-mobile-app
-Image Detection Mobile App using Microsoft Customvision.ai (AI/ML) and Microsoft PowerApps
+# Social Distance Image Detector Workshop
+This workshop explains how to use Microsoft AI to detect Social Distance using Microsoft Customvision.ai (AI/ML) and Microsoft PowerApps. This is not production ready. 
+
+# What is Social Distance?
+
+# Ideas 
+
+# What is Microsoft Custom Vision.ai?
+
+
+
 
 
 
