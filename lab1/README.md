@@ -41,7 +41,7 @@ All images were collected using Google and Bing Search. They are all publicly av
 
 # Workshop Lab 1 - Step by Steps (NOT Completed)
 
-1) Build the Power Apps 
+### Build the Power Apps 
 First you need to have a PowerApps account. 
 With your PowerApps account login in using the address https://powerapps.microsoft.com/en-us/
 
@@ -53,13 +53,16 @@ If you do not want to build your own Power Apps you can import this Power Apps.<
 https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/tree/master/lab1/src/PowerApp<BR>
 
 
-2) Build your Custom Vision AI Model
+### Build your Custom Vision AI Model
 
 <b>Create a new Custom Vision Project</b>
 ![Create a new Custom Vision Project](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/create-custom-vision-project.PNG)
 
 <b>Train Images</b>
 ![Train Images](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/train-images.PNG)
+
+<b>Test with a new image</b>
+![Test](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/quick-test-model.PNG)
 
 <b>Quick test in the Model</b>
 ![Quick test in the Model](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/publish-model.PNG)
