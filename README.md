@@ -7,7 +7,7 @@ This [Lab 1 ](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob
 The goal of this Demo App is to identify Social Distance in an image. <BR>
 This is a binary classification: Yes or No. <BR>
 
-<b>Click [here](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/README.md) to jump to Lab 1<BR></b>
+<b>Click [here](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/README.md#workshop-lab-1---step-by-steps-not-completed) to jump to Lab 1<BR></b>
 
 ### Tools
 1. Microsoft PowerApps (https://powerapps.microsoft.com/) <BR>
