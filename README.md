@@ -32,7 +32,8 @@ In the picture below we can see they are all following Social Distance guideline
 
 All images were collected using Google and Bing Search. They are all publicly available in the internet. <BR>
 
-### Reference
+
+### References
 
 Use your model with the prediction API<BR>
 https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/use-prediction-api<BR>
