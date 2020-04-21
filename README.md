@@ -22,6 +22,15 @@ In the picture below we can see they are all following Social Distance guideline
 
 ![Social Distance definition](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/data/social-distance-images/social-distance-definition/social-distancing-620.jpg)
 
+### Social Distance equals YES 
+
+![Social Distance equals YES](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/data/social-distance-images/yes/000_1PR2KI.width-800.jpg)
+
+### Social Distance equals NO
+
+![Social Distance equals NO](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/data/social-distance-images/no/0_EUV_pUXXQAA0cY_.jpg)
+
+All images were collected using Google and Bing Search. They are all publicly available in the internet. <BR>
 
 ### Reference
 
