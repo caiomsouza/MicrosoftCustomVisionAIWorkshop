@@ -52,14 +52,11 @@ https://preview.create.powerapps.com/studio <BR>
 2) Build your Custom Vision AI Model
 
 Call: <BR>
-ClearCollect(imgcol,CustomVision.DetectImageV2("Your Custom Vision AI project ID","Your Iteration",Camera1.Photo).predictions) <BR>
-
+```javascript  
+ClearCollect(imgcol,CustomVision.DetectImageV2("Your Custom Vision AI project ID","Your Iteration",Camera1.Photo).predictions)
+```
 
 Real example:<BR>
-  
-ClearCollect(imgcol,CustomVision.DetectImageV2("8c1fa230-043d-42ba-b284-e52653d873ef","Iteration1",Camera1.Photo).predictions)<BR>
-
-
 ```javascript
 ClearCollect(imgcol,CustomVision.DetectImageV2("8c1fa230-043d-42ba-b284-e52653d873ef","Iteration1",Camera1.Photo).predictions)<BR>
 ```
