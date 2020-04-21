@@ -41,15 +41,38 @@ All images were collected using Google and Bing Search. They are all publicly av
 
 # Workshop Lab 1 - Step by Steps (NOT Completed)
 
-1) Build the Power Apps 
+### Build the Power Apps 
 First you need to have a PowerApps account. 
 With your PowerApps account login in using the address https://powerapps.microsoft.com/en-us/
 
 Use this link to build your new Power App: <BR>
 https://preview.create.powerapps.com/studio <BR>
 
+<b>Social Distance Detector Demo Power Apps</b><BR>
+If you do not want to build your own Power Apps you can import this Power Apps.<BR>
+https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/tree/master/lab1/src/PowerApp<BR>
 
-2) Build your Custom Vision AI Model
+
+### Build your Custom Vision AI Model
+
+<b>Create a new Custom Vision Project</b>
+![Create a new Custom Vision Project](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/create-custom-vision-project.PNG)
+
+<b>Add and label images</b>
+![Train Images](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/images-tagged.PNG)
+
+<b>Train Images</b>
+![Train Images](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/train-images.PNG)
+
+<b>Test with a new image</b>
+![Test](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/quick-test-model.PNG)
+
+<b>Publish the Model</b>
+![Quick test in the Model](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/publish-model.PNG)
+
+<b>Use the Prediction API to predict new images</b>
+![Prediction API](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/prediction-api.PNG
+)
 
 Call: <BR>
 ```javascript  
@@ -61,31 +84,6 @@ Real example:<BR>
 ClearCollect(imgcol,CustomVision.DetectImageV2("8c1fa230-043d-42ba-b284-e52653d873ef","Iteration1",Camera1.Photo).predictions)
 ```
 
+![Calling the Custom Vision API in the Power Apps](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/tutorial/power-app-call-customvisionapi2.PNG)
 
-### References
 
-Use your model with the prediction API<BR>
-https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/use-prediction-api<BR>
-
-PowerApps Pro Tips | How to Set Up Image Capture<BR>
-http://powerappspros.com/2017/03/powerapps-pro-tips-how-to-set-up-image-capture/<BR>
-
-How to upload images from the camera control to Azure blob storage<BR>
-https://powerapps.microsoft.com/en-us/blog/custom-api-for-image-upload/<BR>
-
-Quickstart: Create an image classification project with the Custom Vision Python SDK<BR>
-https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/python-tutorial<BR>
-
-POWERAPPS TUTORIAL: HOW TO BUILD YOUR FIRST POWERAPP<BR>
-https://jobs.collab365.community/powerapps-tutorial-how-to-build-your-first-powerapp/<BR>
-
-Youtube videos:<BR>
-https://www.youtube.com/watch?v=syt61L03dpc<BR>
-https://www.youtube.com/watch?v=syt61L03dpc<BR>
-https://www.youtube.com/watch?v=P5yKrEfKtEI<BR>
-https://www.youtube.com/watch?v=KUtdnnYRpo4<BR>
-https://www.youtube.com/watch?v=O0vstZ1EBaI<BR>
-https://www.youtube.com/watch?v=wtTYSyBUpFc<BR>
-
-Xamarin<BR>
-https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin<BR>
