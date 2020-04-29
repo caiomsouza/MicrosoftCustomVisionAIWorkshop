@@ -38,7 +38,7 @@ All images were collected using Google and Bing Search. They are all publicly av
 ![Funny 2](https://github.com/caiomsouza/MicrosoftCustomVisionAIWorkshop/blob/master/lab1/data/social-distance-images/funny-images/_1_main_screengrab.jpg)
 
 
-# Workshop Lab 1 - Step by Steps (NOT Completed)
+# Workshop Lab 1 - Step by Steps
 
 ### Build the Power Apps 
 First you need to have a PowerApps account. 
